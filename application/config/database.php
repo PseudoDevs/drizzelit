@@ -5,10 +5,10 @@ $active_group = 'default';
 $query_builder = TRUE;
 
 $db['default'] = array(
-    'hostname' => 'localhost', // Your database connection address (can be an IP or hostname)
-    'username' => 'root', // The username to login with
-    'password' => '', // The password to login with
-    'database' => 'dropit', // The name of the database
+    'hostname' => 'sql202.epizy.com', // Your database connection address (can be an IP or hostname)
+    'username' => 'epiz_29881180', // The username to login with
+    'password' => 'Ia5Y0Mf1ymonS', // The password to login with
+    'database' => 'epiz_29881180_drizzleit', // The name of the database
 
     /*
     !!! Do not edit anything below without knowing what you're doing !!!
